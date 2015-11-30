@@ -10,6 +10,10 @@ import es.mouseimprpant.mouse.MouseHookStruct;
 import es.mouseimprpant.thread.Captura;
 
 
+/**
+ * @author Tomas Navarro Martinez
+ *
+ */
 public class Main {
 
     public static void main(String[] args) {

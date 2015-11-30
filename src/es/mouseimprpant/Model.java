@@ -5,6 +5,10 @@ import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
+/**
+ * @author Tomas Navarro Martinez
+ *
+ */
 public class Model {
     private static final String DIR_APP_DATA = "";
     

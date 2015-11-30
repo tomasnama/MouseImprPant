@@ -1,12 +1,18 @@
 package es.mouseimprpant.thread;
 
 import java.awt.*;
+
 import java.awt.image.*;
 
 import java.io.*;
 
 import javax.imageio.ImageIO;
 
+
+/**
+ * @author Tomas Navarro Martinez
+ *
+ */
 public class Captura extends Thread {
 	public String fileName;
 	
